@@ -1,0 +1,23 @@
+{
+    "Google":{
+    "company": "Google",
+    "job_search_url": "https://careers.google.com/api/v3/search/", 
+    "job_title_keyword": "Data Engineer",
+    "location": "India",
+    "output_csv": "google_data_engineer_jobs.csv"
+},
+    "Microsoft":{
+    "company": "Microsoft",
+    "job_search_url": "https://jobs.careers.microsoft.com/api/search",
+    "job_title_keyword": "Data Engineer",
+    "location": "India",
+    "output_csv": "microsoft_data_engineer_jobs.csv"
+},
+"Amazon":{
+    "company": "Amazon",
+    "job_search_url": "https://www.amazon.jobs/en/search.json",
+    "job_title_keyword": "Data Engineer",
+    "location": "India",
+    "output_csv": "amazon_data_engineer_jobs.csv"
+ }
+}
